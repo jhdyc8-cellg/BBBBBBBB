@@ -1,0 +1,8 @@
+{
+  "name": "写作编辑器",
+  "short_name": "写作",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
